@@ -1,0 +1,22 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "test-openshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbenjamin11/basic-server.git"
+  },
+  "author": "bbenjamin11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbenjamin11/basic-server/issues"
+  },
+  "homepage": "https://github.com/bbenjamin11/basic-server#readme",
+  "dependencies": {
+    "express-ws": "^4.0.0"
+  }
+}
